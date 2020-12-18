@@ -106,18 +106,7 @@ print  """
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;96mHATERX MAKES ME FAMOUS MOHSIN ALI ..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;91mDEVOLPER
-                     MOHSIN THE LEGEND
-\033[1;94mFACEBOOK
-                     https://www.facebook.com/MOHSIN.ALI.ALL.HATERX.KA.PAPA.FEEL.THE.POWER
-\033[1;91mWHATSAPP
-                     03063112***
-\033[1;93mGITHUB
-                     MohsinTheLegend
-\033[1;92mFBGROUP
-https://www.facebook.com/groups/547828071909576/?ref=share
-\033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;96mCloning I,ds Open Will Be One week..
+\033[1;97m===============================================033[1;94m☠OTHERS : THE MASTER MIND TRICKERS჻\033[1;96m☣BROTHERS: MOHSIN X AQIB FEEL THE POWER჻\033[1;91m☣FACEBOOK: MOHSIN RAZA჻\033[1;92m☣WhatsApp:03063112***\033[1;94m☣FRIEND YT: TAIMUR Creations\033[1;97m☣CREATOR : MOHSIN ALI THE BRAND\033[1;97m============================================
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••                
 \033[1;92m--------------------BRANDED----------------------
 """
@@ -289,7 +278,22 @@ def action():
         print logo2
         print "Enter any Pakistan Mobile code Number"+'\n'
         print 'Enter any code 1 to 49'
-        print 'telenor.jazz.zong.warid'
+        print 'MOBILINK/JAZZ CODE HERE BY MOHSIN
+00, 01, 02, 03, 04,
+05, 06, 07, 08, 09,
+TELINORE CODE HERE BY MOHSIN
+40, 41, 42, 43, 44,
+45, 46, 47 ,48 ,49,
+WARID CODE HERE BY MOHSIN
+20, 21, 22, 23,
+24, ??, ??, ??,
+UFONE CODE HERE BY MOHSIN
+31, 32, 33, 34,
+35, 36, 37, ??,
+ZONG CODE HERE BY MOHSIN
+10, 11, 12, 13,
+14, 15, 16, 17,
+TYPE ONLY ONE CODE'
         try:
             c = raw_input("\033[1;97mCHOOSE : ")
             k="03"
