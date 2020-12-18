@@ -277,7 +277,6 @@ def action():
         os.system("clear")
         print logo2
         print "Enter any Pakistan Mobile code Number"+'\n'
-        print 'Enter any code 1 to 49'
         print 'MOBILINK/JAZZ CODE HERE BY MOHSIN
 00, 01, 02, 03, 04,
 05, 06, 07, 08, 09,
@@ -294,6 +293,7 @@ ZONG CODE HERE BY MOHSIN
 10, 11, 12, 13,
 14, 15, 16, 17,
 TYPE ONLY ONE CODE'
+        print 'telenor,jazz,zong,warid'
         try:
             c = raw_input("\033[1;97mCHOOSE : ")
             k="03"
