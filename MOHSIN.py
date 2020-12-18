@@ -106,7 +106,7 @@ print  """
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;96mHATERX MAKES ME FAMOUS MOHSIN ALI ..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;97m===============================================033[1;94m☠OTHERS : THE MASTER MIND TRICKERS჻\033[1;96m☣BROTHERS: MOHSIN X AQIB FEEL THE POWER჻\033[1;91m☣FACEBOOK: MOHSIN RAZA჻\033[1;92m☣WhatsApp:03063112***\033[1;94m☣FRIEND YT: TAIMUR Creations\033[1;97m☣CREATOR : MOHSIN ALI THE BRAND\033[1;97m============================================
+\33[1;94m☠OTHERS : THE MASTER MIND TRICKERS჻\033[1;96m☣BROTHERS: MOHSIN X AQIB FEEL THE POWER჻\033[1;91m☣FACEBOOK: MOHSIN RAZA჻\033[1;92m☣WhatsApp:03063112***\033[1;94m☣FRIEND YT: TAIMUR Creations\033[1;97m☣CREATOR : MOHSIN ALI THE BRAND\033[1;97m============================================
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••                
 \033[1;92m--------------------BRANDED----------------------
 """
